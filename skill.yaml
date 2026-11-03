@@ -1,0 +1,5 @@
+name: "butler_backup"
+title: "一条龙加密备份（butler-backup）"
+description: "让 AI 助手自己把核心数据加密备份做完：自己装校验过的 age、自己生成密钥、打包加密存放、当场做恢复演练，最后只把私钥交给用户保存。用户什么都不用先准备，也不用自己去别的机器生成密钥。"
+category: "Work and knowledge"
+include_in_prompt: false
